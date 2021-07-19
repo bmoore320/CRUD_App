@@ -1,0 +1,16 @@
+/Users/brandon/Projects/CRUD_App/CRUD_App/bin/Debug/netstandard2.0/CRUD_App.deps.json
+/Users/brandon/Projects/CRUD_App/CRUD_App/bin/Debug/netstandard2.0/CRUD_App.dll
+/Users/brandon/Projects/CRUD_App/CRUD_App/bin/Debug/netstandard2.0/ref/CRUD_App.dll
+/Users/brandon/Projects/CRUD_App/CRUD_App/bin/Debug/netstandard2.0/CRUD_App.pdb
+/Users/brandon/Projects/CRUD_App/CRUD_App/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/brandon/Projects/CRUD_App/CRUD_App/obj/Debug/netstandard2.0/EmployeeList.xaml.g.cs
+/Users/brandon/Projects/CRUD_App/CRUD_App/obj/Debug/netstandard2.0/CRUD_App.AssemblyInfoInputs.cache
+/Users/brandon/Projects/CRUD_App/CRUD_App/obj/Debug/netstandard2.0/CRUD_App.AssemblyInfo.cs
+/Users/brandon/Projects/CRUD_App/CRUD_App/obj/Debug/netstandard2.0/CRUD_App.csproj.CoreCompileInputs.cache
+/Users/brandon/Projects/CRUD_App/CRUD_App/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/brandon/Projects/CRUD_App/CRUD_App/obj/Debug/netstandard2.0/CRUD_App.dll
+/Users/brandon/Projects/CRUD_App/CRUD_App/obj/Debug/netstandard2.0/ref/CRUD_App.dll
+/Users/brandon/Projects/CRUD_App/CRUD_App/obj/Debug/netstandard2.0/CRUD_App.pdb
+/Users/brandon/Projects/CRUD_App/CRUD_App/obj/Debug/netstandard2.0/TitleSelectPage.xaml.g.cs
+/Users/brandon/Projects/CRUD_App/CRUD_App/obj/Debug/netstandard2.0/EmployeeCreatePage.xaml.g.cs
+/Users/brandon/Projects/CRUD_App/CRUD_App/obj/Debug/netstandard2.0/CRUD_App.csproj.AssemblyReference.cache

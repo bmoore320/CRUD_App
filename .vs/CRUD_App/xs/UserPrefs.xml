@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4C363FFF-18BB-4FEC-AF54-347F387A0DC1}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="CRUD_App" expanded="True">
+            <Node name="CRUD_App" selected="True" />
+            <Node name="CRUD_App.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CRUD__App.Android PreferredExecutionTarget="Android.pixel_2_q_10_0_-_api_29" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../HelloWorld/HelloWorld.iOS/Persistence/SQLiteDb.cs" line="15" column="16" endLine="15" endColumn="66" offsetX="-1" offsetY="-1" expression="path" liveUpdate="False" />
+    <Watch file="../../../../HelloWorld/HelloWorld.iOS/Persistence/SQLiteDb.cs" line="15" column="16" endLine="15" endColumn="66" offsetX="-1" offsetY="-1" expression="path" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CRUD__App.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6A2653DC-38AE-41F9-90DE-6D2B12E6F3AE" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

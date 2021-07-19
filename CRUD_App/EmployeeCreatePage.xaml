@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="CRUD_App.EmployeeCreatePage">
+    <StackLayout>
+        <TableView Intent="Form">
+            <TableRoot>
+                <TableSection Title="New Hire Information">
+                    <EntryCell x:Name="entryName" Label="Name" Placeholder="Name" />
+                    <EntryCell x:Name="entryTitle" Label="Title" Placeholder="Title" />
+                </TableSection>
+                <TableSection>
+			        <ViewCell>
+				        <Button Text="Save" HorizontalOptions="Fill" Clicked="Save_Clicked" />
+		            </ViewCell>
+		        </TableSection>
+            </TableRoot>
+        </TableView>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "LcUWk1m3F4gdPL3g1vnGNHI8HlTTNN9lOpv8Ja7gh1SV8a57XmU+I1Z5echL+CHe68LKQO+XYubEu102JKEtVA==",
+  "success": true,
+  "projectFilePath": "/Users/brandon/Projects/CRUD_App/CRUD_App/CRUD_App.csproj",
+  "expectedPackageFiles": [
+    "/Users/brandon/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/brandon/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/brandon/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/brandon/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/brandon/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
