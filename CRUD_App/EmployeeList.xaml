@@ -6,14 +6,14 @@
     x:Class="CRUD_App.EmployeeList">
     <StackLayout>
         <StackLayout>
-            <Button HorizontalOptions="CenterAndExpand" Text="Create New" Clicked="Create_Clicked"/>
+            <Button HorizontalOptions="CenterAndExpand" Text="Add New" Clicked="Create_Clicked"/>
         </StackLayout>
         <ListView x:Name="listView" ItemSelected="listView_ItemSelected" >
         <ListView.ItemTemplate>
                 <DataTemplate >
                     <TextCell Text="{Binding Name}" Detail="{Binding Title}" >
                         <TextCell.ContextActions>
-                            <MenuItem Text="Delete" Clicked="Delete_Clicked" IsDestructive="True" CommandParameter="{Binding .}"/>
+                            <MenuItem Text="Terminate" Clicked="Delete_Clicked" IsDestructive="True" CommandParameter="{Binding .}"/>
                         </TextCell.ContextActions>
                     </TextCell>
                 </DataTemplate>
